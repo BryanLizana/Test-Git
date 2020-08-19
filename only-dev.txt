@@ -1,1 +1,7 @@
 Only dev
+<<<<<<< HEAD
+=======
+
+Only Master
+
+>>>>>>> 99d01596bf045cbb4f0be1420d04b8eadb7d3561
