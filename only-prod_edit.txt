@@ -2,3 +2,6 @@ Master
 Development Edit
 
 Sólo para desarrollo
+
+
+Sólo para producion, espero
