@@ -1,2 +1,4 @@
 Master 
 Development Edit
+
+Sólo para desarrollo
